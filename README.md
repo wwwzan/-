@@ -1,2 +1,2 @@
-# machine_earning_essons
+# machine_learning_lessons
 20200440307
